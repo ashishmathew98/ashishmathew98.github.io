@@ -1,19 +1,19 @@
-## Data Scientist
-### Skills
-- Programming: *Python, R, SAS, SQL*
-- Tools: *Tableau, Microsoft Office, SAS Viya*
+## Hi, I'm Ashish! 
+I'm a data scientist with three years of experience in the banking sector, specializing in customer and fraud analytics. I'm intersted in data science and finance; currently working on analyzing investor sentiment and its role in portfolio optimization.
 
+[![My Skills](https://skillicons.dev/icons?i=py,r,sklearn,tensorflow,postgres,mongodb,git)](https://skillicons.dev)
 ### Education
-- M.S. Applied Analytics @ Columbia University, New York (_Dec 2025_)
-- B.E. Electrical @ Birla Institute of Tech. & Science, Pilani (_May 2021_)
+**Columbia University -** *M.S. Applied Analytics*</br>
+**Birla Institute of Technology & Science -** *B.E. Electrical and Electronics*
 
 ### Experience
-Fraud Analytics @ JPMorgan Chase (_Sep 2022 - Jun 2024_)
-- Developed predictive models and business strategies to mitigate fraud on Chase credit cards. 
-- Created reports tracking losses and identifying emerging fraud trends.
+**JPMorgan Chase -** *Strategy Analytics, Associate*</br>
+- Developed predictive models and strategies to mitigate fraud on Chase credit cards.
+- Created reports and Tableau dashboards to track model performance and identify emerging fraud trends.
 
-Consumer Data Science @ JPMorgan Chase (_Jun 2021 - Aug 2022_)
-- Developed models and features to increase credit application approval rates in the new-to-credit customer segment.
+**JPMorgan Chase -** *Data Science, Analyst*</br>
+- Developed underwriting tools and features to increase approval rates in the new-to-credit customer segment.
+
 
 ### Projects
 #### [Analyzing Airline Delays](https://ashishmathew98.github.io/AirlineDelays/)
