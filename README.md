@@ -20,7 +20,4 @@ I'm a data scientist with three years of experience in the banking sector, speci
 #### [Analyzing Airline Delays](https://ashishmathew98.github.io/AirlineDelays/)
 **Objective:** Identify carriers and regions with poor service and drivers behind delays.
 ![alt text](./assets/images/us_hex_map.png)
-#### [Predicting Advertisement Click-Through Rate](https://ashishmathew98.github.io/PredictingClicks/)
-**Objective:** Build machine-learning models to predict the click-through rate of an advertisment.
 
-![alt text](./assets/images/ad_click.png)
