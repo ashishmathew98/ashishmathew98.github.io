@@ -1,5 +1,5 @@
 ## Hi, I'm Ashish! 
-I'm a data scientist with three years of experience in the banking sector, specializing in customer and fraud analytics. I'm intersted in data science and finance; currently working on analyzing investor sentiment and its role in portfolio optimization.
+I'm a data scientist with three years of experience in the banking sector, specializing in customer and fraud analytics.
 
 [![My Skills](https://skillicons.dev/icons?i=py,r,sklearn,tensorflow,postgres,mongodb,git)](https://skillicons.dev)
 ### Education
