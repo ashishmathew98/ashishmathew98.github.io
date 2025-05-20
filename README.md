@@ -17,7 +17,7 @@ I'm a data scientist with three years of experience in the banking sector, speci
 
 
 ### Projects
-#### [Portfolio Management](https://ashishmathew98.github.io/Portfolio-Management/)
+#### [Portfolio Management](https://github.com/ashishmathew98/Portfolio-Management)
 **Objective:** Analyze the impact of diversification on financial performance
 ![alt text](./assets/images/000012.png)
 #### [Analyzing Airline Delays](https://ashishmathew98.github.io/AirlineDelays/)
