@@ -17,9 +17,6 @@ I'm a data scientist with three years of experience in the banking sector, speci
 
 
 ### Projects
-#### [Glaucoma Detection](https://github.com/ashishmathew98/Glaucoma-CNN)
-**Objective:** Build a convolutional neural network (CNN) to detect the presence of glaucoma in retinal FUNDUS images
-![alt text](./assets/images/cup-to-disc.jpg)
 #### [Impact of Diversification](https://ashishmathew98.github.io/Investment-Diversification/)
 **Objective:** Analyze the impact of diversification on financial performance
 ![alt text](./assets/images/000012.png)
