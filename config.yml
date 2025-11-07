@@ -15,8 +15,8 @@ menu:
         - name: Projects
           url: projects/
           weight: 2
-        - name: Resume
-          url: resume/
+        - name: Experience
+          url: experience/
           weight: 3
 
 params:
@@ -53,8 +53,8 @@ params:
           buttons:
             - name: Projects
               url: projects/
-            - name: Resume
-              url: resume/
+            - name: Experience
+              url: experience/
 
     socialIcons:
         - name: CV
