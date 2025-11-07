@@ -46,7 +46,7 @@ params:
     profileMode:
           enabled: true
           title: Ashish Mathew
-          subtitle: "I am a graduate student at Columbia University in the City of New York and have 3 years of experience as a data scientist in the financial services industry. My area of interest is Anomaly Detection, Credit Risk and Fraud Detection."
+          subtitle: "I am a graduate student at Columbia University in the City of New York and have 3 years of experience as a data scientist in the financial services industry. My areas of interest include Anomaly Detection, Credit Risk and Fraud Detection."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
