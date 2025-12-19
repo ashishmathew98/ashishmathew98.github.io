@@ -2,7 +2,7 @@
 title: "Residual Return Prediction & Portfolio Optimization"
 date: 2025-05-31
 author: ["Ashish Mathew"]
-tags: ["Finance","Time Series","R"]
+tags: ["Finance","Time Series","Python","Regresssion"]
 summary: "Build a ML model to predict stock alpha and backtest the portfolio"
 editPost:
     URL: "https://github.com/ashishmathew98/financial-ds-project"
