@@ -42,7 +42,7 @@ The goal of this project is to develop a robust machine learning pipeline to pre
 The project utilizes the **Woodbury Matrix Identity** to handle large-scale portfolio optimization efficiently.
 
 * The covariance matrix ($\sum$) is decomposed into factor exposure ($X$), factor covariance ($F$), and specific variance ($D$):
-$$\sum = D + XFX.T$$
+$$\sum = D + XFX^T$$
 * This allow for daily weight updates without the computational burden of inverting a massive full covariance matrix.
 
 ## Results
